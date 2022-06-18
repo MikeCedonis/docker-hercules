@@ -13,7 +13,7 @@ ARG HERCULES_SERVER_MODE=classic
 # defined in the Hercules code base as the current supported version.
 # As a recommended alternative, the "Noob Pack" client download available on the
 # Hercules forums is using the packet version 20180418.
-ARG HERCULES_PACKET_VERSION=latest
+ARG HERCULES_PACKET_VERSION=20140402
 
 # The version of Hercules to build.
 ARG HERCULES_RELEASE="latest"
